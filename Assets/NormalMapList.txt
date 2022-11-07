@@ -1,0 +1,8 @@
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_body_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_eyelidsnormal_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_eyelidssquint_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_eyes_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_head_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_mouthu_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_teethlower_bump.png
+Assets/Avatars/Wallace/Textures/bmap_sk41_wallace_teethupper_bump.png

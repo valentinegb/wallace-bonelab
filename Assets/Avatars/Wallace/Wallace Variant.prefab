@@ -1,0 +1,362 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4054302196278532125
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4623317980329198588, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4623317980329198588, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4623317980329198588, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_Name
+      value: Wallace Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6252548812418770743, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.85969436
+      objectReference: {fileID: 0}
+    - target: {fileID: 6252548812418770743, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5108088
+      objectReference: {fileID: 0}
+    - target: {fileID: 6252548812418770743, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -3.4595453e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6252548812418770743, guid: 01c4ae33e99d34a659493159dc571927,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 2.327301e-17
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 01c4ae33e99d34a659493159dc571927, type: 3}
+--- !u!137 &1270446185928544447 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -6205311235894687582, guid: 01c4ae33e99d34a659493159dc571927,
+    type: 3}
+  m_PrefabInstance: {fileID: 4054302196278532125}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3783779652930741580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 01c4ae33e99d34a659493159dc571927,
+    type: 3}
+  m_PrefabInstance: {fileID: 4054302196278532125}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2045463753772304782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3783779652930741580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36b0701fa2155054992fd13cc16abcfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 7577680155842454924}
+  requiredBonesOrRefsMissing: 0
+  eyeCenterOverride: {fileID: 0}
+  bodyMeshes:
+  - {fileID: 1270446185928544447}
+  headMeshes: []
+  hairMeshes: []
+  eyeOffset: 0.02
+  wristLf: {fileID: 6942598330965921723}
+  wristRt: {fileID: 8383948609245241526}
+  neck2: {fileID: 0}
+  scapulaLf: {fileID: 0}
+  scapulaRt: {fileID: 0}
+  carpalLf: {fileID: 0}
+  carpalRt: {fileID: 0}
+  twistUpperArmLf: {fileID: 0}
+  twistUpperArmRt: {fileID: 0}
+  twistForearmLf: {fileID: 0}
+  twistForearmRt: {fileID: 0}
+  twistUpperThighLf: {fileID: 0}
+  twistUpperThighRt: {fileID: 0}
+  _headTop: 0.05534823
+  _chinY: 0.1272
+  _underbustY: 0.3
+  _waistY: 0.7
+  _highHipY: 0.85
+  _crotchBottom: 0.07007432
+  _headEllipseX: 0.04863266
+  _jawEllipseX: 0.07407892
+  _neckEllipseX: 0.026764175
+  _chestEllipseX: 0.13011105
+  _waistEllipseX: 0.13837755
+  _highHipsEllipseX: 0.13069814
+  _hipsEllipseX: 0.13407786
+  _headEllipseZ: 0.04507258
+  _jawEllipseZ: 0.07178207
+  _neckEllipseZ: 0.030219968
+  _sternumEllipseZ: 0.09075901
+  _chestEllipseZ: 0.099942
+  _waistEllipseZ: 0.09583842
+  _highHipsEllipseZ: 0.08374447
+  _hipsEllipseZ: 0.07975413
+  _headEllipseNegZ: 0.057941046
+  _jawEllipseNegZ: 0.034263056
+  _neckEllipseNegZ: 0.022278916
+  _sternumEllipseNegZ: 0.0679881
+  _chestEllipseNegZ: 0.08684809
+  _waistEllipseNegZ: 0.103006914
+  _highHipsEllipseNegZ: 0.10059254
+  _hipsEllipseNegZ: 0.101281755
+  _thighUpperEllipse:
+    XRadius: 0.060511436
+    XBias: -0.30619466
+    ZRadius: 0.06802217
+    ZBias: -0.16331378
+  _kneeEllipse:
+    XRadius: 0.061559483
+    XBias: -0.19544688
+    ZRadius: 0.059246548
+    ZBias: -0.23982695
+  _calfEllipse:
+    XRadius: 0.059121087
+    XBias: -0.13858844
+    ZRadius: 0.057946015
+    ZBias: -0.3078778
+  _ankleEllipse:
+    XRadius: 0.05862169
+    XBias: -0.07934311
+    ZRadius: 0.06009875
+    ZBias: -0.27780318
+  _upperarmEllipse:
+    XRadius: 0.04850476
+    XBias: -0.17069449
+    ZRadius: 0.051988773
+    ZBias: 0
+  _elbowEllipse:
+    XRadius: 0.045512997
+    XBias: -0.26155457
+    ZRadius: 0.053237103
+    ZBias: 0
+  _forearmEllipse:
+    XRadius: 0.043834243
+    XBias: -0.27443665
+    ZRadius: 0.052794866
+    ZBias: 0
+  _wristEllipse:
+    XRadius: 0.04567941
+    XBias: -0.23790653
+    ZRadius: 0.059519958
+    ZBias: 0
+  bulgeBreast:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  bulgeUpperBack:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  bulgeAbdomen:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  bulgeLowerBack:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  bulgeGroin:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  bulgeButt:
+    apexX: 26
+    apexY: 0.5
+    apexZ: 0
+    upperY: 1
+    lowerY: 1
+    innerX: 26
+    outerX: 32
+    roundUpperInner: 0.1
+    roundUpperOuter: 0
+    roundLowerInner: 0.9
+    roundLowerOuter: 0.4
+    swellUpper: 0.1
+    swellLower: 0.2
+    swellInner: 0.2
+    swellOuter: 0.1
+    rigidity: 0.5
+    primaryRt: {fileID: 0}
+    secondaryLf: {fileID: 0}
+  footstepsWalk: {fileID: 0}
+  footstepsJog: {fileID: 0}
+  highFallOntoFeet: {fileID: 0}
+  smallEffort: {fileID: 0}
+  bigEffort: {fileID: 0}
+  smallPain: {fileID: 0}
+  bigPain: {fileID: 0}
+  dying: {fileID: 0}
+  dead: {fileID: 0}
+  recovery: {fileID: 0}
+--- !u!4 &6942598330965921723 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -2874749859301877850, guid: 01c4ae33e99d34a659493159dc571927,
+    type: 3}
+  m_PrefabInstance: {fileID: 4054302196278532125}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &7577680155842454924 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: 01c4ae33e99d34a659493159dc571927,
+    type: 3}
+  m_PrefabInstance: {fileID: 4054302196278532125}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8383948609245241526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5483698291771570347, guid: 01c4ae33e99d34a659493159dc571927,
+    type: 3}
+  m_PrefabInstance: {fileID: 4054302196278532125}
+  m_PrefabAsset: {fileID: 0}

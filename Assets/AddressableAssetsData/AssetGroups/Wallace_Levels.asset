@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Wallace_Levels
+  m_EditorClassIdentifier: 
+  m_GroupName: Wallace_Levels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4f7a2e838ebcf4c3ca0b3e87b9933ab2
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 31a901f7379c744d3aec9eff18f63a4f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e69fd64eb840449c688a2543efa8f35e, type: 2}
+    - {fileID: 11400000, guid: 8ec2e51b850fd46dca1e562f66fec5e9, type: 2}
+    - {fileID: 11400000, guid: f2a448f776a0b406ca999915846c1025, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Wallace_Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: Wallace_Avatars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 641d4a22053f24d9da4311cc98389237
+  m_SerializeEntries:
+  - m_GUID: d2a29574f76774ef5a39d73db4fc3fda
+    m_Address: Avatar/Wallace
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e99c78a2c57b43618a8c0be0c8d0f62
+    m_Address: PreviewMesh/Wallace
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 31a901f7379c744d3aec9eff18f63a4f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bdafc9f91283c4754a3c3570d6d72b0f, type: 2}
+    - {fileID: 11400000, guid: 1c9e2c4ab32274df4b1b3b5e4cf96ed3, type: 2}
+    - {fileID: 11400000, guid: f7fe7187ea7b24b7f8897f613813fbdf, type: 2}
