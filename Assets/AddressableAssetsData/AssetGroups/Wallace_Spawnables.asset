@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Wallace_Spawnables
   m_Data:
     m_SerializedData: []
-  m_GUID: 8be77931c69e94c6e85183f3c89af299
+  m_GUID: 151859f8cc0c347c9a9ab237842b138b
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 31a901f7379c744d3aec9eff18f63a4f, type: 2}
+  m_Settings: {fileID: 11400000, guid: 7368b62ba2ee64527a541fdd8296dce7, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: d9ca4cee85095451fa0839d15ea9fd5f, type: 2}

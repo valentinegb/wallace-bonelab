@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Wallace_Levels
   m_Data:
     m_SerializedData: []
-  m_GUID: 4f7a2e838ebcf4c3ca0b3e87b9933ab2
+  m_GUID: 7e6a83c754bc048fdb337860088b86a0
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 31a901f7379c744d3aec9eff18f63a4f, type: 2}
+  m_Settings: {fileID: 11400000, guid: 7368b62ba2ee64527a541fdd8296dce7, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: e69fd64eb840449c688a2543efa8f35e, type: 2}
