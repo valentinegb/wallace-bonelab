@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Wallace_Avatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 22b6e3b1343a44c4fa5792cc7e63227b
+  m_GUID: e81798185de2e46a6a06a8a05d457347
   m_SerializeEntries:
   - m_GUID: d2a29574f76774ef5a39d73db4fc3fda
     m_Address: Avatar/Wallace
@@ -26,7 +26,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 7368b62ba2ee64527a541fdd8296dce7, type: 2}
+  m_Settings: {fileID: 11400000, guid: bf125f7ce549c4764805377cd8ee67db, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: bdafc9f91283c4754a3c3570d6d72b0f, type: 2}
