@@ -25,13 +25,17 @@ MonoBehaviour:
   _unlockable: 0
   _redacted: 0
   _author: valentinegb
-  _version: 1.0.1
+  _version: 1.0.2
   _sdkVersion: 0.3.7-1748
   _internal: 0
   _crates:
   - {fileID: 11400000, guid: 38cfba99d739b46c58f2083e3c34bce8, type: 2}
   _tags: []
   _changeLogs:
+  - version: 1.0.2
+    title: 
+    text: ' - Give down scaled bones blank material to avoid visual glitches from
+      not using URP shader'
   - version: 1.0.1
     title: 
     text: " - Scale down unused geometry\n - Remove unused materials and textures"

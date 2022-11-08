@@ -3,12 +3,52 @@ guid: 01c4ae33e99d34a659493159dc571927
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_body
+    second: {fileID: 2100000, guid: 08c1d4ea98f7a44f1b38459cd6642659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_eyelidsnormal
+    second: {fileID: 2100000, guid: 598343b9b5f7a4341b48bb49092f13f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_eyelidssquint
+    second: {fileID: 2100000, guid: 598343b9b5f7a4341b48bb49092f13f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_eyes
+    second: {fileID: 2100000, guid: 3c880e3e2dfb64afca0d6e18ecdcc05b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_head
+    second: {fileID: 2100000, guid: 3720b9aea447e4c63aaa02513fea7ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_mouthu
+    second: {fileID: 2100000, guid: 598343b9b5f7a4341b48bb49092f13f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_teethlower
+    second: {fileID: 2100000, guid: d81bc88854f1a42ddb6d92d5f324dc4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sk41_wallace_teethupper
+    second: {fileID: 2100000, guid: d5fe17c7a48f7475d826b4858a2be4b0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 2
     materialSearch: 0
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
