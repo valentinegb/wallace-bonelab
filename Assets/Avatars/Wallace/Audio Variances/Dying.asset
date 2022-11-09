@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28eb85c6ef8edc49b01114eef913a4e, type: 3}
+  m_Name: Dying
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 973a5684996c1446a818582720ad38fe, type: 3}
+  - {fileID: 8300000, guid: 0a828405cde4148a3b6cc3c85a323035, type: 3}
+  - {fileID: 8300000, guid: 6b7316c5c046a4c3182ca3d35e8fbb47, type: 3}
+  - {fileID: 8300000, guid: 86ea7b458db184263bfb5ec5df8283fd, type: 3}
+  - {fileID: 8300000, guid: 16f98e2bd0f944d328e2ef52b3f88603, type: 3}

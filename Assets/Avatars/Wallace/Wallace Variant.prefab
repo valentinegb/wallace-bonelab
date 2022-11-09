@@ -377,9 +377,9 @@ MonoBehaviour:
   highFallOntoFeet: {fileID: 0}
   smallEffort: {fileID: 0}
   bigEffort: {fileID: 0}
-  smallPain: {fileID: 0}
-  bigPain: {fileID: 0}
-  dying: {fileID: 0}
+  smallPain: {fileID: 11400000, guid: d347f7aed2bc04b35a416e3f461e3124, type: 2}
+  bigPain: {fileID: 11400000, guid: 4ccf49e9f55e14f67bb64abfde19bd81, type: 2}
+  dying: {fileID: 11400000, guid: acf2374cca39846d997752fd2f2b0236, type: 2}
   dead: {fileID: 0}
   recovery: {fileID: 0}
 --- !u!4 &6942598330965921723 stripped

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b28eb85c6ef8edc49b01114eef913a4e, type: 3}
+  m_Name: Big Pain
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: a69b5533854e941bba104848a9b09408, type: 3}
+  - {fileID: 8300000, guid: c327a5f8d86f34948b5b12b3378ef9a3, type: 3}
+  - {fileID: 8300000, guid: 739a26da6850e413ba75b15afb5c9298, type: 3}
+  - {fileID: 8300000, guid: c8e1e48d51bc64528b005ff20d414f09, type: 3}
+  - {fileID: 8300000, guid: ca2f4fc9f1b3f44d187f415daa51af82, type: 3}
+  - {fileID: 8300000, guid: b503ac86a3cec487aa0d66cb653a2947, type: 3}
+  - {fileID: 8300000, guid: 4d7b60160c71d452bb392e9e765b752f, type: 3}

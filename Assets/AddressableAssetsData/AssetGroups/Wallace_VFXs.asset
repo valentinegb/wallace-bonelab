@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: Wallace_VFXs
   m_Data:
     m_SerializedData: []
-  m_GUID: 5412868e517334921bedabd253f238aa
+  m_GUID: 8da82514453384bb6b2e2f6573a6d199
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 279aba02c73a5434db43768a5d7ec0eb, type: 2}
+  m_Settings: {fileID: 11400000, guid: 6fe3c8ec5117c49a09e84af0f1bb8beb, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: dff4acd5ab24944cba36fc07d1ec3d2d, type: 2}
